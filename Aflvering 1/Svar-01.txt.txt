@@ -1,0 +1,16 @@
+Important Commands
+
+4)
+Dir - Viser indholdet af det directory som du befinder dig i
+Md - Laver et nyt Directiry
+Cd - Ændrer det directory du er i
+Cls - Clearer alt i commando prompten
+Help - Printer en liste Kommando
+Java - Kører dit Java Problem
+'
+5)
+25%
+
+6)
+28 mistede livet
+Kan skulle bruge et tal som er en del af 2-tabellen. Altså 1/2, 1/4, 1/8, og 1/16.
